@@ -1,0 +1,1 @@
+Generate distributions with: =dzil new -p rwp My::Module=
